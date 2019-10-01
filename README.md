@@ -10,7 +10,7 @@ Contact: [zhouxy@cs.utexas.edu](mailto:zhouxy@cs.utexas.edu). Any questions or d
 
 ## Differences from Upstream
 
-This fork support Pytorch 1.x, which is not supported in the original release.
+This fork supports Pytorch 1.x (only tested on 1.2.0), which is not supported in the original release.
 
 ## Abstract 
 
